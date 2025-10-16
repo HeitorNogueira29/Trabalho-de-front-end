@@ -1,0 +1,12 @@
+.notice {
+    border-left: 4px solid var(--accent);
+    padding: .6rem .8rem;
+    margin-bottom: .6rem;
+    background: #fff;
+    color: var(--text);
+    border-radius: 6px;
+}
+.notice-important {
+    background: #fff7e6;
+    border-left-color: #f0ad4e;
+}
